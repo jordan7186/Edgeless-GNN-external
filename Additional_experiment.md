@@ -30,4 +30,4 @@ Comparison of different architectures on Citeseer dataset.
 
 Effect of alpha and beta on Citeseer dataset.
 
-![image-20210329124640487](C:\Users\YongminShin\AppData\Roaming\Typora\typora-user-images\image-20210329124640487.png)
+![Additional experiment 3](/add_citeseer.png)
