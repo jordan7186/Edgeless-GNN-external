@@ -35,7 +35,7 @@ Effect of alpha and beta on Citeseer dataset.
 
 ## Additional experimental results 4
 
-Comparison with [40] on node classification. We have used the author's implementation with modification to match our setting.
+Comparison with [20] on node classification. We have used the author's implementation with modification to 1) Edge deletion mechanism (to generate edgeless nodes) 2) Train/val/test split to match our setting.
 
 | Dataset        | Method        | micro F1          |
 |----------------|---------------|-------------------|
