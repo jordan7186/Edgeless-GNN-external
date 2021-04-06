@@ -31,3 +31,16 @@ Comparison of different architectures on Citeseer dataset.
 Effect of alpha and beta on Citeseer dataset.
 
 ![Additional experiment 3](/add_citeseer.PNG)
+
+
+## Additional experimental results 4
+
+Comparison with [40] on node classification. We have used the author's implementation with modification to match our setting.
+
+| Dataset        | Mehtod        | micro F1          |
+| -------------- | ------------- | ----------------- |
+| Cora           | Edgeless-SAGE | 0.7177 +/- 0.0343 |
+|                | LDS-GNN       | 0.3504            |
+| -------------- | ------------- | ----------------- |
+| Citeseer       | Edgeless-SAGE | 0.6697 +/- 0.0299 |
+|                | LDS-GNN       | 0.0000            |
