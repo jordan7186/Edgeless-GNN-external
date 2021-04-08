@@ -35,11 +35,11 @@ Effect of alpha and beta on Citeseer dataset.
 
 ## Additional experimental results 4
 
-Comparison with [20] on node classification. We have used the author's implementation with modification to 1) Edge deletion mechanism (to generate edgeless nodes) 2) Train/val/test split to match our setting.
+Comparison with [40] on node classification. We have used the author's implementation with modification to 1) Edge deletion mechanism (to generate edgeless nodes) 2) Train/val/test split to match our setting.
 
 | Dataset        | Method        | micro F1          |
 |----------------|---------------|-------------------|
 | Cora           | Edgeless-SAGE | 0.7177 +/- 0.0343 |
 |                | LDS-GNN       | 0.3504            |
 | Citeseer       | Edgeless-SAGE | 0.6697 +/- 0.0299 |
-|                | LDS-GNN       | 0.0000            |
+|                | LDS-GNN       | 0.4791 +/- 0.1367 |
