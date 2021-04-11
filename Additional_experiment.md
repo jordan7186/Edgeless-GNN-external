@@ -40,6 +40,6 @@ Comparison with [40] on node classification. We have used the author's implement
 | Dataset        | Method        | micro F1          |
 |----------------|---------------|-------------------|
 | Cora           | Edgeless-SAGE | 0.7177 +/- 0.0343 |
-|                | LDS-GNN       | 0.3504            |
+|                | LDS-GNN       | 0.2777 +/- 0.0693 |
 | Citeseer       | Edgeless-SAGE | 0.6697 +/- 0.0299 |
 |                | LDS-GNN       | 0.4791 +/- 0.1367 |
